@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "LocationId": 105,
+        "StartDate": "4/1/2017",
+        "endDate": "10/23/2017",
+        "guests": 1,
+        "price": 159,
+        "total": 159
+    },
+    {
+        "id": 2,
+        "LocationId": 106,
+        "StartDate": "10/1/2017",
+        "endDate": "12/30/2017",
+        "guests": 3,
+        "price": 324,
+        "total": 972
+    },
+    {
+        "id": 3,
+        "LocationId": 1012,
+        "StartDate": "10/22/2017",
+        "endDate": "4/8/2017",
+        "guests": 1,
+        "price": 339,
+        "total": 339
+    },
+    {
+        "id": 4,
+        "LocationId": 108,
+        "StartDate": "6/14/2017",
+        "endDate": "12/5/2017",
+        "guests": 3,
+        "price": 170,
+        "total": 510
+    },
+    {
+        "id": 5,
+        "LocationId": 1012,
+        "StartDate": "1/15/2017",
+        "endDate": "9/22/2017",
+        "guests": 2,
+        "price": 202,
+        "total": 404
+    },
+    {
+        "id": 6,
+        "LocationId": 104,
+        "StartDate": "11/27/2017",
+        "endDate": "12/20/2017",
+        "guests": 2,
+        "price": 205,
+        "total": 410
+    },
+    {
+        "id": 7,
+        "LocationId": 101,
+        "StartDate": "6/12/2017",
+        "endDate": "3/28/2017",
+        "guests": 1,
+        "price": 296,
+        "total": 296
+    },
+    {
+        "id": 8,
+        "LocationId": 108,
+        "StartDate": "7/22/2017",
+        "endDate": "3/10/2017",
+        "guests": 2,
+        "price": 333,
+        "total": 666
+    },
+    {
+        "id": 9,
+        "LocationId": 102,
+        "StartDate": "9/29/2017",
+        "endDate": "7/4/2017",
+        "guests": 1,
+        "price": 340,
+        "total": 340
+    },
+    {
+        "id": 10,
+        "LocationId": 1013,
+        "StartDate": "9/4/2017",
+        "endDate": "3/31/2017",
+        "guests": 3,
+        "price": 280,
+        "total": 840
+    }
+]
